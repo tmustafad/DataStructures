@@ -1,9 +1,11 @@
-# DataStructures
+# DataStructures (All implementations are based on Coursera Algorithims and Data Structures course)
+
 Custom implementations of various kinds of data structures like Stack,Queue,Map etc.
 ===========================================================================
 # 5 April (Two packages added)
 Queue implementations by using two stacks ,
-Stack implementations by using array
+Stack implementation by using array.
+
 ================================================================================
 
 # 9 April (Two packages added)
